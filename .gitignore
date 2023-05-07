@@ -1,0 +1,11 @@
+# Local .terraform directories
+**/.terraform/*
+.tfplan
+*.tfstate*
+files/call_lambda
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
